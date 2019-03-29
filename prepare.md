@@ -19,7 +19,9 @@ OpenTask系统构建在以太坊之上，是以太坊公链上的Dapp，因此�
 
 ### 2. Rinkeby测试网络领取免费Ether
 
-Rinkeby领取的方式与Kovan类似，只不过要首先把地址发布到社交网络(facebook/twitter)上，然后贴的也是社交网络地址，而不是直接贴以太坊地址。
+Rinkeby领取的方式与Kovan类似，地址是<https://faucet.rinkeby.io/>，只不过要首先把地址发布到社交网络(facebook/twitter)上，然后贴的也是社交网络地址，而不是直接贴以太坊地址。
+
+![Rinkeby水龙头](images/rinkeby-faucet.png)
 
 ### 3. 找我们领取免费Ether
 
