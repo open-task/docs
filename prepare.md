@@ -77,7 +77,11 @@ Rinkeby领取的方式与Kovan类似，地址是<https://faucet.rinkeby.io/>，�
 
 输入合约地址后，会自动出现DET合约，点击右边的加号，会添加到首页资产。
 
-![add to home](images/imToken-check-DET-1.jpeg)
+![add to home](images/imToken-check-DET-3.jpeg)
+
+如果有主网的DET币已经添加，可能会出现重复的DET，是正常的。因为我们分别在主网、Rinkeby、Kovan均发行了DET币，名字是一致的。
+
+![duplicate](images/imToken-check-DET-4.jpeg)
 
 ## 地址参考页
 
