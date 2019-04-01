@@ -30,3 +30,55 @@ Rinkeby领取的方式与Kovan类似，地址是<https://faucet.rinkeby.io/>，�
 ## 准备DET
 
 领取对应网络的DET，找Chole和Alex。
+
+如果默认情况下钱包没有出现DET的余额，不用担心，自助添加以下即可。
+
+## MetaMask 查看 DET
+
+仍以Kovan网络为例，DET地址为 0x6ffF60A882CE1Cd793dC14261Eec0f0d6A470E21。其他网络的DET地址，请参考这里<https://dececo.github.io/docs/>。
+
+1. 点击菜单
+
+![click menu](images/MetaMask-check-DET-1.png)
+
+如果添加过DET，会自动出现DET的余额，如下图我的截图所示。
+
+2. 点击"Add Token"
+
+如果没有，说明没添加过DET，那就点击添加。
+
+![add token](images/MetaMask-check-DET-2.png)
+
+3. 填写信息
+
+![fill](images/MetaMask-check-DET-3.png)
+
+- **Token Contract Address**: DET的地址，Kovan网络填0x6ffF60A882CE1Cd793dC14261Eec0f0d6A470E21。其他网络的DET地址，请参考这里<https://dececo.github.io/docs/>
+- **Token Symbol**: DET
+- **Decimals of Precision**: 18
+
+## imToken 查看 DET
+
+仍以Kovan网络为例，DET地址为 0x6ffF60A882CE1Cd793dC14261Eec0f0d6A470E21。其他网络的DET地址，请参考这里<https://dececo.github.io/docs/>。
+
+开始前，请确保[imToken切换到Kovan网络](imToken.md)。
+
+1. 打开imToken，点击资产旁边的加号
+
+![home](images/imToken-check-DET-1.jpeg)
+
+2. 输入合约地址
+
+0x6ffF60A882CE1Cd793dC14261Eec0f0d6A470E21
+
+![search det](images/imToken-check-DET-2.jpeg)
+
+3. 添加DET
+
+输入合约地址后，会自动出现DET合约，点击右边的加号，会添加到首页资产。
+
+![add to home](images/imToken-check-DET-1.jpeg)
+
+## 地址参考页
+
+其他网络的DET地址，请参考这里<https://dececo.github.io/docs/>。
